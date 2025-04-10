@@ -1,0 +1,109 @@
+D:\Full Stack\E-tickets\-complete-app-eTickets-mvc\eTickets\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+D:\Full Stack\E-tickets\-complete-app-eTickets-mvc\eTickets\wwwroot\lib\jquery\dist\jquery.min.map
+D:\Full Stack\E-tickets\-complete-app-eTickets-mvc\eTickets\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+D:\Full Stack\E-tickets\-complete-app-eTickets-mvc\eTickets\wwwroot\favicon.ico
+D:\Full Stack\E-tickets\-complete-app-eTickets-mvc\eTickets\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+D:\Full Stack\E-tickets\-complete-app-eTickets-mvc\eTickets\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+D:\Full Stack\E-tickets\-complete-app-eTickets-mvc\eTickets\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+D:\Full Stack\E-tickets\-complete-app-eTickets-mvc\eTickets\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+D:\Full Stack\E-tickets\-complete-app-eTickets-mvc\eTickets\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+D:\Full Stack\E-tickets\-complete-app-eTickets-mvc\eTickets\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+D:\Full Stack\E-tickets\-complete-app-eTickets-mvc\eTickets\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+D:\Full Stack\E-tickets\-complete-app-eTickets-mvc\eTickets\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+D:\Full Stack\E-tickets\-complete-app-eTickets-mvc\eTickets\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+D:\Full Stack\E-tickets\-complete-app-eTickets-mvc\eTickets\wwwroot\Images\Dolby_Cinema_2021_logo.svg
+D:\Full Stack\E-tickets\-complete-app-eTickets-mvc\eTickets\wwwroot\lib\jquery\dist\jquery.js
+D:\Full Stack\E-tickets\-complete-app-eTickets-mvc\eTickets\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+D:\Full Stack\E-tickets\-complete-app-eTickets-mvc\eTickets\wwwroot\lib\jquery-validation\dist\additional-methods.js
+D:\Full Stack\E-tickets\-complete-app-eTickets-mvc\eTickets\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+D:\Full Stack\E-tickets\-complete-app-eTickets-mvc\eTickets\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+D:\Full Stack\E-tickets\-complete-app-eTickets-mvc\eTickets\wwwroot\css\site.css
+D:\Full Stack\E-tickets\-complete-app-eTickets-mvc\eTickets\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+D:\Full Stack\E-tickets\-complete-app-eTickets-mvc\eTickets\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+D:\Full Stack\E-tickets\-complete-app-eTickets-mvc\eTickets\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+D:\Full Stack\E-tickets\-complete-app-eTickets-mvc\eTickets\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+D:\Full Stack\E-tickets\-complete-app-eTickets-mvc\eTickets\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+D:\Full Stack\E-tickets\-complete-app-eTickets-mvc\eTickets\wwwroot\lib\jquery-validation\LICENSE.md
+D:\Full Stack\E-tickets\-complete-app-eTickets-mvc\eTickets\wwwroot\lib\jquery\LICENSE.txt
+D:\Full Stack\E-tickets\-complete-app-eTickets-mvc\eTickets\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+D:\Full Stack\E-tickets\-complete-app-eTickets-mvc\eTickets\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+D:\Full Stack\E-tickets\-complete-app-eTickets-mvc\eTickets\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+D:\Full Stack\E-tickets\-complete-app-eTickets-mvc\eTickets\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+D:\Full Stack\E-tickets\-complete-app-eTickets-mvc\eTickets\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+D:\Full Stack\E-tickets\-complete-app-eTickets-mvc\eTickets\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+D:\Full Stack\E-tickets\-complete-app-eTickets-mvc\eTickets\wwwroot\js\site.js
+D:\Full Stack\E-tickets\-complete-app-eTickets-mvc\eTickets\wwwroot\lib\jquery\dist\jquery.min.js
+D:\Full Stack\E-tickets\-complete-app-eTickets-mvc\eTickets\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+wwwroot\css\site.css
+wwwroot\favicon.ico
+wwwroot\Images\_315x420_1098ed10a09e6a8b4f5c38f936a612a80a9f36a8161f0d8465f9bb0e40cfe284.jpg
+wwwroot\Images\_315x420_f6a6cc5717850f048270e98382e71b76037d49aa4c68a7221cd5461183519eac.jpg
+wwwroot\Images\1.jpg
+wwwroot\Images\2.jpg
+wwwroot\Images\5706f743-8ad5-460e-bd22-45e8b7a760f2.jpg
+wwwroot\Images\645.jpg
+wwwroot\Images\81Iv2STe6bL._AC_UF894,1000_QL80_.jpg
+wwwroot\Images\8dd8cf81719397.5d08404c45eec.jpg
+wwwroot\Images\Cinema1.jpg
+wwwroot\Images\Cinema2.jpg
+wwwroot\Images\cinema3.jpg
+wwwroot\Images\cinema4.jpg
+wwwroot\Images\CzBx03jUQAAvQ5P.jpg
+wwwroot\Images\dezal.jpg
+wwwroot\Images\Dolby_Cinema_2021_logo.svg
+wwwroot\Images\download.jpg
+wwwroot\Images\Dragon.jpg
+wwwroot\Images\Ex.jpg
+wwwroot\Images\Fast X.jpg
+wwwroot\Images\game-of-thrones-gaat-verder-met-seizoen-waar-de-makers-zelf-meest.webp
+wwwroot\Images\henady.jpg
+wwwroot\Images\hhh.jpg
+wwwroot\Images\images (1).jfif
+wwwroot\Images\images.jpg
+wwwroot\Images\jhon.jpg
+wwwroot\Images\john.jpg
+wwwroot\Images\mv.jpg
+wwwroot\Images\ragnar.jpg
+wwwroot\Images\scale.webp
+wwwroot\Images\Scofeled.JPG
+wwwroot\Images\Scoop.jpg
+wwwroot\Images\stev.jpg
+wwwroot\Images\Steven_Spielberg_by_Gage_Skidmore.jpg.png
+wwwroot\Images\The-Shawshank-Redemption.jpg
+wwwroot\Images\tilar.jpg
+wwwroot\Images\Trazan.jpg
+wwwroot\Images\unnamed.jpg
+wwwroot\js\site.js
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\jquery\dist\jquery.js
+wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\lib\jquery\dist\jquery.min.map
+wwwroot\lib\jquery\LICENSE.txt
+wwwroot\lib\jquery-validation\dist\additional-methods.js
+wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+wwwroot\lib\jquery-validation\LICENSE.md
+wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt

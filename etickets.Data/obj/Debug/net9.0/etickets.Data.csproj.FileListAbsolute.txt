@@ -1,0 +1,13 @@
+D:\Full Stack\E-tickets\-complete-app-eTickets-mvc\etickets.Data\obj\Debug\net9.0\etickets.Data.csproj.AssemblyReference.cache
+D:\Full Stack\E-tickets\-complete-app-eTickets-mvc\etickets.Data\obj\Debug\net9.0\etickets.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Full Stack\E-tickets\-complete-app-eTickets-mvc\etickets.Data\obj\Debug\net9.0\etickets.Data.AssemblyInfoInputs.cache
+D:\Full Stack\E-tickets\-complete-app-eTickets-mvc\etickets.Data\obj\Debug\net9.0\etickets.Data.AssemblyInfo.cs
+D:\Full Stack\E-tickets\-complete-app-eTickets-mvc\etickets.Data\obj\Debug\net9.0\etickets.Data.csproj.CoreCompileInputs.cache
+D:\Full Stack\E-tickets\-complete-app-eTickets-mvc\etickets.Data\obj\Debug\net9.0\etickets.Data.sourcelink.json
+D:\Full Stack\E-tickets\-complete-app-eTickets-mvc\etickets.Data\bin\Debug\net9.0\etickets.Data.deps.json
+D:\Full Stack\E-tickets\-complete-app-eTickets-mvc\etickets.Data\bin\Debug\net9.0\etickets.Data.dll
+D:\Full Stack\E-tickets\-complete-app-eTickets-mvc\etickets.Data\bin\Debug\net9.0\etickets.Data.pdb
+D:\Full Stack\E-tickets\-complete-app-eTickets-mvc\etickets.Data\obj\Debug\net9.0\etickets.Data.dll
+D:\Full Stack\E-tickets\-complete-app-eTickets-mvc\etickets.Data\obj\Debug\net9.0\refint\etickets.Data.dll
+D:\Full Stack\E-tickets\-complete-app-eTickets-mvc\etickets.Data\obj\Debug\net9.0\etickets.Data.pdb
+D:\Full Stack\E-tickets\-complete-app-eTickets-mvc\etickets.Data\obj\Debug\net9.0\ref\etickets.Data.dll

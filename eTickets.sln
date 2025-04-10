@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.35906.104 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eTickets", "..\..\E-tickets\-complete-app-eTickets-mvc\eTickets\eTickets.csproj", "{CD18D99F-4CD4-0C6E-72DF-A835AD772537}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "etickets.Data", "..\..\E-tickets\-complete-app-eTickets-mvc\etickets.Data\etickets.Data.csproj", "{57091B82-FA02-4496-B4E4-84D1EE1F76E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "etickets.Service", "..\..\E-tickets\-complete-app-eTickets-mvc\etickets.Service\etickets.Service.csproj", "{4EB5D277-52E7-427E-A2D7-7C7628428AA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD18D99F-4CD4-0C6E-72DF-A835AD772537}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD18D99F-4CD4-0C6E-72DF-A835AD772537}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD18D99F-4CD4-0C6E-72DF-A835AD772537}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD18D99F-4CD4-0C6E-72DF-A835AD772537}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57091B82-FA02-4496-B4E4-84D1EE1F76E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57091B82-FA02-4496-B4E4-84D1EE1F76E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57091B82-FA02-4496-B4E4-84D1EE1F76E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57091B82-FA02-4496-B4E4-84D1EE1F76E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EB5D277-52E7-427E-A2D7-7C7628428AA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EB5D277-52E7-427E-A2D7-7C7628428AA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EB5D277-52E7-427E-A2D7-7C7628428AA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EB5D277-52E7-427E-A2D7-7C7628428AA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {302BA37A-74D9-42D2-A9A2-5117B1ACF0A7}
+	EndGlobalSection
+EndGlobal
